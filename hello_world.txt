@@ -1,2 +1,3 @@
 Hello World!
 Edit git commit message editor.
+Or just type the option flag -m for message.
